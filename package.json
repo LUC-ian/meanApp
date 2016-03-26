@@ -1,0 +1,30 @@
+{
+  "name": "starter-node-angular",
+  "version": "1.0.0",
+  "description": "my-first-mean-web-app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "^4.5.1",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "a",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUC-ian/meanApp.git"
+  },
+  "keywords": [
+    "mean1"
+  ],
+  "author": "lungureanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUC-ian/meanApp/issues"
+  },
+  "homepage": "https://github.com/LUC-ian/meanApp#readme"
+}

@@ -1,0 +1,1 @@
+You can use the app folder to add more models, controllers, routes, and anything backend (Node) specific to your app.
